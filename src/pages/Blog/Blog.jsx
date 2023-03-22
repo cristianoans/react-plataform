@@ -1,7 +1,7 @@
-export function Blog(){
+export function Blog() {
     return (
-        <div>
-        <h1>Blog</h1>
+        <div className="blog">
+            <h1>Blog</h1>
         </div>
-    );
-};
+    )
+}

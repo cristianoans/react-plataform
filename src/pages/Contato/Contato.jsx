@@ -1,7 +1,7 @@
-export function Contato(){
+export function Contato() {
     return (
-        <div>
-        <h1>Contato</h1>
+        <div className="contato">
+            <h1>Contato</h1>
         </div>
-    )
-};
+    );
+}
